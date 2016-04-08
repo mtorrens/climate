@@ -1,0 +1,6 @@
+
+CEST,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2006-1-13,,,,,,,,,,,,,,,,97,97,114,0.00,,,0<br />
+2006-5-6,,,,,,,,,,,,,,,,72,69,,0.00,,,140<br />
+2006-6-21,,,,,,,,,,,,,,,,82,82,,0.00,,,130<br />
+2006-7-31,,,,,,,,,,,,,,,,,,,0.00,,Fog,-1<br />

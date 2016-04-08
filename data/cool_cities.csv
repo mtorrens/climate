@@ -1,0 +1,159 @@
+Name,Zone,City,Country
+Lisbon,EUR,Lisbon,Portugal
+Madrid,EUR,Madrid,Spain
+Barcelona,EUR,Barcelona,Catalonia
+Rome,EUR,Rome,Italy
+Milan,EUR,Milan,Italy
+Florence,EUR,Florence,Italy
+Venice,EUR,Venice,Italy
+Lyon,EUR,Lyon,France
+Marseille,EUR,Marseille,France
+Paris,EUR,Paris,France
+Geneva,EUR,Geneva,Switzerland
+Zurich Airport,EUR,Zurich,Switzerland
+Brussels,EUR,Brussels,Belgium
+Amsterdam,EUR,Amsterdam,Netherlands
+London,EUR,London,United Kingdom
+Manchester,EUR,Manchester,United Kingdom
+Edinburgh,EUR,Edinburgh,Scotland
+Glasgow,EUR,Glasgow,Scotland
+Dublin,EUR,Dublin,Ireland
+Copenhagen,EUR,Copenhagen,Denmark
+Oslo,EUR,Oslo,Norway
+Stockholm Arlanda,EUR,Stockholm,Sweden
+Helsinki,EUR,Helsinki,Finland
+Bergen Flesland,EUR,Bergen,Norway
+Tromso,EUR,Tromsø,Norway
+Trondheim,EUR,Trondheim,Norway
+Svalbard,EUR,Longyearbyen,Norway
+Munich,EUR,Munich,Germany
+Frankfurt,EUR,Frankfurt am Main,Germany
+Berlin,EUR,Berlin,Germany
+Hamburg Fuhlsbuettel,EUR,Hamburg,Germany
+Prague,EUR,Prague,Czech Republic
+Vienna Schwechat,EUR,Vienna,Austria
+Zagreb,EUR,Zagreb,Croatia
+Athens,EUR,Athens,Greece
+Budapest Ferihegy,EUR,Budapest,Hungary
+Belgrade Surcin,EUR,Belgrade,Serbia
+Bucharest,EUR,Bucharest,Romania
+Sofia,EUR,Sofia,Bulgaria
+Minsk,EUR,Minsk,Belarus
+Kyiv,EUR,Kyiv,Ukraine
+Moscow Sheremetyevo,EUR,Moscow,Russia
+St. Petersburg,EUR,Saint Petersburg,Russia
+Warsaw,EUR,Warsaw,Poland
+Vilnius,EUR,Vilnius,Lithuania
+Baku,EUR,Baku,Azerbaijan
+Honolulu,NAM,Honolulu,United States of America
+Anchorage,NAM,Anchorage,United States of America
+Seattle,NAM,Seattle,United States of America
+Portland Hillsboro,NAM,Portland,United States of America
+San Francisco,NAM,San Francisco,United States of America
+Los Angeles,NAM,Los Angeles,United States of America
+San Diego,NAM,San Diego,United States of America
+Las Vegas,NAM,Las Vegas,United States of America
+Phoenix,NAM,Phoenix,United States of America
+Denver,NAM,Denver,United States of America
+Dallas/Ft Worth,NAM,Dallas,United States of America
+Houston,NAM,Houston,United States of America
+Omaha,NAM,Omaha,United States of America
+Chicago,NAM,Chicago,United States of America
+Minneapolis,NAM,Minneaoplus,United States of America
+Detroit,NAM,Detroit,United States of America
+Atlanta,NAM,Atlanta,United States of America
+Miami,NAM,Miami,United States of America
+Philadelphia,NAM,Philadelphia,United States of America
+New York,NAM,New York City,United States of America
+Boston,NAM,Boston,United States of America
+Washington,NAM,Washington D.C.,United States of America
+Vancouver,NAM,Vancouver,Canada
+Calgary,NAM,Calgary,Canada
+Edmonton,NAM,Edmonton,Canada
+Toronto,NAM,Toronto,Canada
+Ottawa,NAM,Ottawa,Canada
+Montreal,NAM,Montréal,Canada
+Quebec,NAM,Québec City, Canada
+Mexico City Airport,NAM,Mexico City,Mexico
+Havana,NAM,Havana,Cuba
+Caracas la Carlota,SAM,Caracas,Venezuela
+Bogota,SAM,Bogota,Colombia
+Quito,SAM,Quito,Equador
+Lima,SAM,Lima,Peru
+La Paz,SAM,La Paz, Bolivia
+Asuncion,SAM,Asunción,Paraguay
+Montevideo,SAM,Montevideo,Uruguay
+Buenos Aires,SAM,Buenos Aires,Argentina
+Santiago,SAM,Santiago,Chile
+Ushuaia,SAM,Ushuaia,Argentina
+Porto Alegre,SAM,Porto Alegre,Brazil
+Rio de Janeiro,SAM,Rio de Janeiro,Brazil
+Sao Paulo,SAM,São Paulo,Brazil
+Manaus Eduardo Gomes,SAM,Manaus,Brazil
+Salvador Airport,SAM,Salvador,Brazil
+Recife,SAM,Recife,Brazil
+Cape Town,AFR,Cape Town,South Africa
+Johannesburg,AFR,Johannesburg,South Africa
+Harare Kutsaga,AFR,Harare,Zimbabwe
+Kinshasa,AFR,Kinshasa,Congo
+Luanda,AFR,Luanda,Angola
+Nairobi Jomo,AFR,Nairobi,Kenya
+Libreville,AFR,Libreville,Gabon
+Douala,AFR,Douala,Cameroon
+Addis Ababa,AFR,Addis Ababa,Ethiopia
+Dakar,AFR,Dakar,Senegal
+Khartoum,AFR,Khartoum,Sudan
+Abidjan,AFR,Abidjan,Ivory Coast
+Accra,AFR,Accra,Ghana
+Lagos,AFR,Lagos,Nigeria
+Cairo,AFR,Cairo,Egypt
+Tripolis,AFR,Tripolis,Lybia
+Tunis,AFR,Tunisia
+Rabat,AFR,Rabat,Morocco
+Casablanca,AFR,Casablanca,Morocco
+Riyadh,MEA,Riyadh,Saudi Arabia
+Dubai,MEA,Dubai,United Arab Emirates
+Doha,MEA,Doha,Qatar
+Ankara,MEA,Ankara,Turkey
+Istanbul,EUR,Istanbul,Turkey
+Damascus,MEA,Damascus,Syria
+Tel Aviv,MEA,Tel Aviv,Israel
+Tehran,MEA,Tehran,Iran
+Astana,NAS,Astana,Kazakhstan
+Omsk,NAS,Omsk,Russia
+Kabul,NAS,Kabul,Afghanistan
+Karachi,SAS,Karachi,Pakistan
+New Delhi,SAS,New Delhi,India
+Kathmandu,NAS,Kathmandu,Nepal
+Bombay,SAS,Bombay,India
+Hyderabad,SAS,Hyderabad,India
+Bangalore Airport,SAS,Bangalore,India
+Kolkata,SAS,Kolkata,India
+Dhaka,SAS,Dhaka,Bangladesh
+Ha Noi,SAS,Hanoi,Vietnam
+Bangkok,SAS,Bangkok,Thailand
+Kuala Lumpur,SAS,Kuala Lumpur,Malaysia
+Taipei Airport,SAS,Taipei,Taiwan
+Hong Kong,NAS,Hong Kong,Hong Kong
+Shanghai Hongqiao,NAS,Shanghai,China
+Beijing,NAS,Beijing,China
+Seoul City,NAS,Seoul,South Korea
+Pyongyang,NAS,Pyongyang,North Korea
+Xi'an,NAS,Xi'an,China
+Harbin,NAS,Harbin,China
+Wuhan,NAS,Wuhan,China
+Tokyo,NAS,Tokyo,Japan
+Sapporo AB,NAS,Sapporo,Japan
+Osaka Airport,NAS,Osaka,Japan
+Fukuoka Airport,NAS,Fukuoka,Japan
+Singapore,SAS,Singapore,Singapore
+Jakarta Soekarno-Hatta,SAS,Jakarta,Indonesia
+Manila,SAS,Manila,Philipines
+Perth,OCE,Perth,Australia
+Sydney,OCE,Sydney,Australia
+Melbourne,OCE,Melbourne,Australia
+Brisbane,OCE,Brisbane,Australia
+Darwin,OCE,Darwin,Australia
+Wellington,OCE,Wellington,New Zealand
+Auckland,OCE,Auckland,New Zealand
+Apia,OCE,Apia,Samoa

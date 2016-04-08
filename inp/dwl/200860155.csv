@@ -1,0 +1,4 @@
+
+WET,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2008-4-12,19,13,13,11,10,9,88,70,52,1021,1020,1019,8,7,6,8,6,,0.00,3,,110<br />
+2008-4-22,19,,19,11,11,11,60,60,60,1019,1019,1019,10,10,10,23,23,,0.00,1,,60<br />
