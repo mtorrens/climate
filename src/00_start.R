@@ -34,7 +34,7 @@ library(shiny)
 # Source relevant files
 source(paste(SRCDIR, '01_city_list.R', sep = ''))
 source(paste(SRCDIR, '03_climate_plot.R', sep = ''))
-#source(paste(SRCDIR, '02_get_cities.R', sep = ''))
+source(paste(SRCDIR, '02_get_cities.R', sep = ''))
 
 # Finish
 cat('Done!\n')

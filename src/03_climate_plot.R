@@ -32,8 +32,26 @@ climate.plot <- function(weather, name, year, variable = 'Temperature') {
     name.var <- 'Wind Speed (Km/h)'
     vars <- c('mean_wind speedkm/h', 'max_wind speedkm/h', 'max_wind speedkm/h')
     optc <- 'D'
+  } else if (variable == 'Precipitation') {
+    name.var <- 'Precipitation (mm)'
+    vars <- c('precipitationmm', 'precipitationmm', 'precipitationmm')
+    optc <- 'D'
+  } else if (variable == 'Cloud coverage') {
+    name.var <- 'Cloud coverage (scaled 1 to 6)'
+    vars <- c('cloudcover', 'cloudcover', 'cloudcover')
+    optc <- 'D'
+  }  
+
+  # Add some variablity for static variables
+  if (vars[1] == vars[2]) {
+    new.var1 <- paste('min', vars[1], sep = '_')
+    new.var2 <- paste('max', vars[2], sep = '_')
+    weather[, new.var1] <- weather[, vars[3]] - 1
+    weather[, new.var2] <- weather[, vars[3]] + 1
+    vars <- c(new.var1, new.var2, vars[3])
   }
 
+  # Ends of the variable
   extremes <- c(min(weather[, vars[1]]), max(weather[, vars[2]]))
 
   # Set current locale

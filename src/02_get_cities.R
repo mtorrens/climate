@@ -2,8 +2,8 @@
 # Script: 02_get_cities.R
 # source('~/Desktop/bgse/projects/dvis/src/00_start.R')
 ################################################################################
-force <- TRUE     # Force processing of the cities
-download <- TRUE  # Perform the downloads (for unsaved cities)
+force <- FALSE     # Force processing of the cities
+download <- FALSE  # Perform the downloads (for unsaved cities)
 ################################################################################
 
 # Cities to show

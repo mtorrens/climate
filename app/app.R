@@ -1,12 +1,16 @@
-source('~/Desktop/dvis/src/00_start.R')
-#city.w <- get(load(file = '~/Desktop/dvis/data/cities/201508181.RData'))
-cool.cities <- get(load(file = '~/Desktop/dvis/data/cool_cities.RData'))
+################################################################################
+# Script: app.R
+source('~/Desktop/bgse/projects/dvis/src/00_start.R')
+################################################################################
 
+# Shiny
 library(shiny)
 
+# General variables
 zones <- sort(unique(cool.cities[, 'Zone']))
-vars <- c('Temperature', 'Relative Humidity', 'Sea Level Pressure',
-          'Wind Speed', 'Dew Point', 'Visibility')
+vars <- c('Temperature', 'Precipitation', 'Relative Humidity',
+          'Sea Level Pressure', 'Wind Speed', 'Dew Point', 'Visibility',
+          'Cloud coverage')
 
 ################################################################################
 ui <- fluidPage(
@@ -93,7 +97,7 @@ server <- function(input, output, session) {
     code <- cool.cities[mine, 'WMO']
     new.file <- paste(DATDIR, 'cities/', input$year, code, '.RData', sep = '')
     validate(
-      need(file.exists(new.file), 'Oops! You got me. Info not available...')
+      need(file.exists(new.file), 'Oops! Information not available...')
     )
     city.w <- get(load(file = new.file))
     print(head(city.w))
@@ -111,3 +115,4 @@ server <- function(input, output, session) {
 
 # Run the app
 shinyApp(ui = ui, server = server)
+# END OF SCRIPT
