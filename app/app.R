@@ -39,7 +39,8 @@ ui <- fluidPage(
                      choices = vars, selected = 'Temperature'),
         
          selectInput(inputId = 'year', label = 'Year',
-                     choices = c('Average', as.character(2015:2000)),
+                     choices = c('Mean (2000-2015)', 'Median (2000-2015)',
+                                 as.character(2015:2000)),
                      selected = '2015'),
         
          helpText('Hit the button to find out the results!'),
@@ -52,7 +53,7 @@ ui <- fluidPage(
     ),
     tabPanel("Barcelona", 
       tags$br(),
-      'text'
+      'Text'
       #includeHTML(paste(DATDIR, "d3csv/index.html", sep = ''))
     ),
     tabPanel("New York City", "Text"),
@@ -62,14 +63,16 @@ ui <- fluidPage(
     tabPanel("Sydney", "Text"),
     tabPanel("Tromsø", "Text"),
     navbarMenu(title = "Other cities",
-               tabPanel("Longyearbyen", "Text"),
-               tabPanel("Cairo", "Text"),
                tabPanel("Bombay", "Text"),
-               tabPanel("Shanghai", "Text"),
-               tabPanel("Mexico City", "Text"),
-               tabPanel("Los Angeles", "Text"),
+               tabPanel("Cairo", "Text"),
+               tabPanel("Cape Town", "Text"),
+               tabPanel("Dubai", "Text"),
                tabPanel("Honolulu", "Text"),
+               tabPanel("Longyearbyen", "Text"),
+               tabPanel("Los Angeles", "Text"),
+               tabPanel("Mexico City", "Text"),
                tabPanel("São Paulo", "Text"),
+               tabPanel("Shanghai", "Text"),
                tabPanel("Ushuaia", "Text")
     )
   ),
@@ -95,7 +98,14 @@ server <- function(input, output, session) {
   weather.plot <- eventReactive(input$click, {
     mine <- which(cool.cities[, 'DisplayName'] == input$city)[1]
     code <- cool.cities[mine, 'WMO']
-    new.file <- paste(DATDIR, 'cities/', input$year, code, '.RData', sep = '')
+    if (input$year == 'Mean (2000-2015)') {
+      var.year <- 'avg'
+    } else if (input$year == 'Median (2000-2015)') {
+      var.year <- 'med'
+    } else {
+      var.year <- input$year
+    }
+    new.file <- paste(DATDIR, 'cities/', var.year, code, '.RData', sep = '')
     validate(
       need(file.exists(new.file), 'Oops! Information not available...')
     )

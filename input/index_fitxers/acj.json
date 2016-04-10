@@ -1,0 +1,18 @@
+OX_9642631879({
+  "ads":{
+    "chain":1,
+    "medium":"w",
+    "record_tmpl":"https://ox-d.weatherus.servedbyopenx.com/{medium}/1.0/{rtype}?ts={txn_state}",
+    "pixels":"https://us-u.openx.net/w/1.0/pd?plm=5&ph=3025f397-e239-4340-a06a-c5b8d0365d60",
+    "adunits" : [
+      {
+        "auid":"538275239",
+        "chain_timeout":"",
+        "chain_revenue":"",
+        "size":"320x50",
+        "chain":[
+        ]
+      }
+    ]
+  }
+});
