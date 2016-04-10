@@ -15,6 +15,4 @@ The repository contains the following material:
 * `temp`: temporary or deprecated files to be deleted
 * `webapp`: material for the webapp to be run in the aforementioned web link
 
-I hope you enjoy it!
-
-Miquel.
+Enjoy!
