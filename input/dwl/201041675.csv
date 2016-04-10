@@ -1,0 +1,6 @@
+
+PKT,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2010-5-31,37,,37,15,15,15,27,27,27,1002,1002,1002,,,,,,,0.00,0,,-1<br />
+2010-6-30,39,37,36,25,24,24,50,47,42,998,996,995,,,,,,,0.00,4,,-1<br />
+2010-7-1,41,36,30,27,24,22,75,51,40,998,996,994,,,,,,,0.00,3,Rain-Thunderstorm,-1<br />
+2010-7-2,34,31,31,24,23,21,66,59,52,1002,1000,997,,,,,,,0.00,6,Thunderstorm,-1<br />

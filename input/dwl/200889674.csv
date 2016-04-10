@@ -1,0 +1,8 @@
+
+NZDT,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2008-4-18,-18,,-18,-23,-23,-23,66,66,66,996,996,996,10,10,10,21,21,,0.00,8,,50<br />
+2008-10-2,-17,,-17,-21,-21,-21,72,72,72,976,976,976,10,10,10,13,13,,0.00,8,Snow,350<br />
+2008-10-16,-23,,-23,-33,-33,-33,41,41,41,973,973,973,10,10,10,35,35,,0.00,1,Fog,50<br />
+2008-10-18,-18,,-18,-23,-23,-23,66,66,66,982,982,982,10,10,10,14,14,,0.00,3,,330<br />
+2008-10-19,-12,-12,-12,-15,-16,-16,79,76,73,982,981,980,2,2,2,23,14,,0.00,8,Snow,150<br />
+2008-12-7,-3,,-3,-14,-14,-14,43,43,43,979,979,979,10,10,10,23,23,39,0.00,6,,150<br />

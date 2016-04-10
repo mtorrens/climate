@@ -1,0 +1,6 @@
+
+PKT,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2002-2-21,18,,18,13,13,13,73,73,73,1014,1014,1014,,,,,,,0.00,3,,-1<br />
+2002-8-10,38,,38,22,22,22,39,39,39,993,993,993,,,,,,,0.00,6,,-1<br />
+2002-11-8,15,,15,12,12,12,82,82,82,,,,4,4,4,10,10,,0.00,1,,180<br />
+2002-11-19,,,,,,,,,,,,,4,4,4,10,10,,0.00,0,,230<br />

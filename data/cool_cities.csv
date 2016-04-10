@@ -1,159 +1,330 @@
 Name,Zone,City,Country
-Lisbon,EUR,Lisbon,Portugal
-Madrid,EUR,Madrid,Spain
-Barcelona,EUR,Barcelona,Catalonia
-Rome,EUR,Rome,Italy
-Milan,EUR,Milan,Italy
-Florence,EUR,Florence,Italy
-Venice,EUR,Venice,Italy
-Lyon,EUR,Lyon,France
-Marseille,EUR,Marseille,France
-Paris,EUR,Paris,France
-Geneva,EUR,Geneva,Switzerland
-Zurich Airport,EUR,Zurich,Switzerland
-Brussels,EUR,Brussels,Belgium
-Amsterdam,EUR,Amsterdam,Netherlands
-London,EUR,London,United Kingdom
-Manchester,EUR,Manchester,United Kingdom
-Edinburgh,EUR,Edinburgh,Scotland
-Glasgow,EUR,Glasgow,Scotland
-Dublin,EUR,Dublin,Ireland
-Copenhagen,EUR,Copenhagen,Denmark
-Oslo,EUR,Oslo,Norway
-Stockholm Arlanda,EUR,Stockholm,Sweden
-Helsinki,EUR,Helsinki,Finland
-Bergen Flesland,EUR,Bergen,Norway
-Tromso,EUR,Tromsø,Norway
-Trondheim,EUR,Trondheim,Norway
-Svalbard,EUR,Longyearbyen,Norway
-Munich,EUR,Munich,Germany
-Frankfurt,EUR,Frankfurt am Main,Germany
-Berlin,EUR,Berlin,Germany
-Hamburg Fuhlsbuettel,EUR,Hamburg,Germany
-Prague,EUR,Prague,Czech Republic
-Vienna Schwechat,EUR,Vienna,Austria
-Zagreb,EUR,Zagreb,Croatia
-Athens,EUR,Athens,Greece
-Budapest Ferihegy,EUR,Budapest,Hungary
-Belgrade Surcin,EUR,Belgrade,Serbia
-Bucharest,EUR,Bucharest,Romania
-Sofia,EUR,Sofia,Bulgaria
-Minsk,EUR,Minsk,Belarus
-Kyiv,EUR,Kyiv,Ukraine
-Moscow Sheremetyevo,EUR,Moscow,Russia
-St. Petersburg,EUR,Saint Petersburg,Russia
-Warsaw,EUR,Warsaw,Poland
-Vilnius,EUR,Vilnius,Lithuania
-Baku,EUR,Baku,Azerbaijan
-Honolulu,NAM,Honolulu,United States of America
-Anchorage,NAM,Anchorage,United States of America
-Seattle,NAM,Seattle,United States of America
-Portland Hillsboro,NAM,Portland,United States of America
-San Francisco,NAM,San Francisco,United States of America
-Los Angeles,NAM,Los Angeles,United States of America
-San Diego,NAM,San Diego,United States of America
-Las Vegas,NAM,Las Vegas,United States of America
-Phoenix,NAM,Phoenix,United States of America
-Denver,NAM,Denver,United States of America
-Dallas/Ft Worth,NAM,Dallas,United States of America
-Houston,NAM,Houston,United States of America
-Omaha,NAM,Omaha,United States of America
-Chicago,NAM,Chicago,United States of America
-Minneapolis,NAM,Minneaoplus,United States of America
-Detroit,NAM,Detroit,United States of America
-Atlanta,NAM,Atlanta,United States of America
-Miami,NAM,Miami,United States of America
-Philadelphia,NAM,Philadelphia,United States of America
-New York,NAM,New York City,United States of America
-Boston,NAM,Boston,United States of America
-Washington,NAM,Washington D.C.,United States of America
-Vancouver,NAM,Vancouver,Canada
-Calgary,NAM,Calgary,Canada
-Edmonton,NAM,Edmonton,Canada
-Toronto,NAM,Toronto,Canada
-Ottawa,NAM,Ottawa,Canada
-Montreal,NAM,Montréal,Canada
-Quebec,NAM,Québec City, Canada
-Mexico City Airport,NAM,Mexico City,Mexico
-Havana,NAM,Havana,Cuba
-Caracas la Carlota,SAM,Caracas,Venezuela
-Bogota,SAM,Bogota,Colombia
-Quito,SAM,Quito,Equador
-Lima,SAM,Lima,Peru
-La Paz,SAM,La Paz, Bolivia
-Asuncion,SAM,Asunción,Paraguay
-Montevideo,SAM,Montevideo,Uruguay
-Buenos Aires,SAM,Buenos Aires,Argentina
-Santiago,SAM,Santiago,Chile
-Ushuaia,SAM,Ushuaia,Argentina
-Porto Alegre,SAM,Porto Alegre,Brazil
-Rio de Janeiro,SAM,Rio de Janeiro,Brazil
-Sao Paulo,SAM,São Paulo,Brazil
-Manaus Eduardo Gomes,SAM,Manaus,Brazil
-Salvador Airport,SAM,Salvador,Brazil
-Recife,SAM,Recife,Brazil
-Cape Town,AFR,Cape Town,South Africa
-Johannesburg,AFR,Johannesburg,South Africa
-Harare Kutsaga,AFR,Harare,Zimbabwe
-Kinshasa,AFR,Kinshasa,Congo
-Luanda,AFR,Luanda,Angola
-Nairobi Jomo,AFR,Nairobi,Kenya
-Libreville,AFR,Libreville,Gabon
-Douala,AFR,Douala,Cameroon
-Addis Ababa,AFR,Addis Ababa,Ethiopia
-Dakar,AFR,Dakar,Senegal
-Khartoum,AFR,Khartoum,Sudan
-Abidjan,AFR,Abidjan,Ivory Coast
-Accra,AFR,Accra,Ghana
-Lagos,AFR,Lagos,Nigeria
-Cairo,AFR,Cairo,Egypt
-Tripolis,AFR,Tripolis,Lybia
-Tunis,AFR,Tunisia
-Rabat,AFR,Rabat,Morocco
-Casablanca,AFR,Casablanca,Morocco
-Riyadh,MEA,Riyadh,Saudi Arabia
-Dubai,MEA,Dubai,United Arab Emirates
-Doha,MEA,Doha,Qatar
-Ankara,MEA,Ankara,Turkey
-Istanbul,EUR,Istanbul,Turkey
-Damascus,MEA,Damascus,Syria
-Tel Aviv,MEA,Tel Aviv,Israel
-Tehran,MEA,Tehran,Iran
-Astana,NAS,Astana,Kazakhstan
-Omsk,NAS,Omsk,Russia
-Kabul,NAS,Kabul,Afghanistan
-Karachi,SAS,Karachi,Pakistan
-New Delhi,SAS,New Delhi,India
-Kathmandu,NAS,Kathmandu,Nepal
-Bombay,SAS,Bombay,India
-Hyderabad,SAS,Hyderabad,India
-Bangalore Airport,SAS,Bangalore,India
-Kolkata,SAS,Kolkata,India
-Dhaka,SAS,Dhaka,Bangladesh
-Ha Noi,SAS,Hanoi,Vietnam
-Bangkok,SAS,Bangkok,Thailand
-Kuala Lumpur,SAS,Kuala Lumpur,Malaysia
-Taipei Airport,SAS,Taipei,Taiwan
-Hong Kong,NAS,Hong Kong,Hong Kong
-Shanghai Hongqiao,NAS,Shanghai,China
-Beijing,NAS,Beijing,China
-Seoul City,NAS,Seoul,South Korea
-Pyongyang,NAS,Pyongyang,North Korea
-Xi'an,NAS,Xi'an,China
-Harbin,NAS,Harbin,China
-Wuhan,NAS,Wuhan,China
-Tokyo,NAS,Tokyo,Japan
-Sapporo AB,NAS,Sapporo,Japan
-Osaka Airport,NAS,Osaka,Japan
-Fukuoka Airport,NAS,Fukuoka,Japan
-Singapore,SAS,Singapore,Singapore
-Jakarta Soekarno-Hatta,SAS,Jakarta,Indonesia
-Manila,SAS,Manila,Philipines
-Perth,OCE,Perth,Australia
-Sydney,OCE,Sydney,Australia
-Melbourne,OCE,Melbourne,Australia
-Brisbane,OCE,Brisbane,Australia
-Darwin,OCE,Darwin,Australia
-Wellington,OCE,Wellington,New Zealand
-Auckland,OCE,Auckland,New Zealand
-Apia,OCE,Apia,Samoa
+Lisbon,Europe,Lisboa,Portugal
+Porto,Europe,Porto,Portugal
+Madrid,Europe,Madrid,Spain
+Valencia,Europe,València,Spain
+Sevilla,Europe,Sevilla,Spain
+La Coruna Airport,Europe,A Coruña,Spain
+Las Palmas de Gran Canaria,Europe,Las Palmas,Spain
+Barcelona,Europe,Barcelona,Catalonia
+Gerona,Europe,Girona,Catalonia
+Rome,Europe,Roma,Italy
+Milan,Europe,Milano,Italy
+Florence,Europe,Firenze,Italy
+Venice,Europe,Venezia,Italy
+Torino,Europe,Torino,Italy
+Naples,Europe,Napoli,Italy
+Palermo,Europe,Palermo,Italy
+Lyon,Europe,Lyon,France
+Marseille,Europe,Marseille,France
+Paris,Europe,Paris,France
+Lille,Europe,Lille,France
+Toulouse,Europe,Toulouse,France
+Montpellier,Europe,Montpellier,France
+Geneva,Europe,Geneva,Switzerland
+Zurich Airport,Europe,Zurich,Switzerland
+Bern-Belp,Europe,Bern,Switzerland
+Basel,Europe,Basel,Switzerland
+Brussels,Europe,Brussels,Belgium
+Antwerp,Europe,Antwerpen,Belgium
+Ghent,Europe,Ghent,Belgium
+Amsterdam,Europe,Amsterdam,Netherlands
+Rotterdam,Europe,Rotterdam,Netherlands
+Eindhoven,Europe,Eindhoven,Netherlands
+London,Europe,London,United Kingdom
+Manchester,Europe,Manchester,United Kingdom
+Liverpool,Europe,Liverpool,United Kingdom
+Edinburgh,Europe,Edinburgh,Scotland
+Glasgow,Europe,Glasgow,Scotland
+Dublin,Europe,Dublin,Ireland
+Cork,Europe,Cork,Ireland
+Vagar,Europe,Tórshavn,Faroe Islands
+Copenhagen,Europe,Copenhagen,Denmark
+Aalborg,Europe,Ålborg,Denmark
+Oslo,Europe,Oslo,Norway
+Stockholm Arlanda,Europe,Stockholm,Sweden
+Goteborg Save AFB,Europe,Göteborg,Sweden
+Malmo Sturup,Europe,Malmö,Sweden
+Helsinki,Europe,Helsinki,Finland
+Bergen Flesland,Europe,Bergen,Norway
+Alesund,Europe,Ålesund,Norway
+Tromso,Europe,Tromsø,Norway
+Trondheim,Europe,Trondheim,Norway
+Hammerfest,Europe,Hammerfest,Norway
+Svalbard,Europe,Longyearbyen,Norway
+Reykjavik,Europe,Reykjavík,Iceland
+Nuuk,Europe,Nuuk,Greenland
+Munich,Europe,Munich,Germany
+Frankfurt,Europe,Frankfurt am Main,Germany
+Berlin,Europe,Berlin,Germany
+Hamburg Fuhlsbuettel,Europe,Hamburg,Germany
+Koln,Europe,Köln,Germany
+Hannover,Europe,Hannover,Germany
+Stuttgart Echterdingen,Europe,Stuttgart,Germany
+Nurnberg,Europe,Nürnberg,Germany
+Prague,Europe,Prague,Czech Republic
+Brno,Europe,Brno,Czech Republic
+Vienna Schwechat,Europe,Vienna,Austria
+Salzburg Flughafen,Europe,Salzburg,Austria
+Graz,Europe,Graz,Austria
+Innsbruck,Europe,Innsbruck,Austria
+Bratislava,Europe,Bratislava,Slovakia
+Zagreb,Europe,Zagreb,Croatia
+Athens,Europe,Athens,Greece
+Thessaloniki,Europe,Thessaloniki,Greece
+Larnaca,Europe,Larnaca,Cyprus
+Budapest Ferihegy,Europe,Budapest,Hungary
+Belgrade Surcin,Europe,Belgrade,Serbia
+Bucharest,Europe,Bucharest,Romania
+Sofia,Europe,Sofia,Bulgaria
+Plovdiv,Europe,Plovdiv,Bulgaria
+Minsk,Europe,Minsk,Belarus
+Kyiv,Europe,Kyiv,Ukraine
+L'viv,Europe,Lviv,Ukraine
+Odessa,Europe,Odessa,Ukraine
+Kishinau,Europe,Chişinău,Moldavia
+Moscow Sheremetyevo,Europe,Moscow,Russia
+St. Petersburg,Europe,St. Petersburg,Russia
+Kazan,Europe,Kazan,Russia
+Yekaterinburg,North Asia,Yekaterinburg,Russia
+Vladivostok,North Asia,Vladivostok,Russia
+Niznij Novgorod,North Asia,Niznij Novgorod,Russia
+Tiksi,North Asia,Tiksi,Russia
+Yakutsk,North Asia,Yakutsk,Russia
+Tallinn,Europe,Tallinn,Estonia
+Riga,Europe,Riga,Latvia
+Warsaw,Europe,Warsaw,Poland
+Gdansk Airport,Europe,Gdańsk,Poland
+Krakow,Europe,Krakow,Poland
+Ljubljana Airport,Europe,Ljubljana,Slovenia
+Sarajevo,Europe,Sarajevo,Bosnia and Herzegovina
+Vilnius,Europe,Vilnius,Lithuania
+Baku,Europe,Baku,Azerbaijan
+Tbilisi,Europe,Tbilisi,Georgia
+Honolulu,North America,Honolulu,United States of America
+Anchorage,North America,Anchorage,United States of America
+Seattle,North America,Seattle,United States of America
+Portland Hillsboro,North America,Portland,United States of America
+San Francisco,North America,San Francisco,United States of America
+Los Angeles,North America,Los Angeles,United States of America
+San Diego,North America,San Diego,United States of America
+Las Vegas,North America,Las Vegas,United States of America
+Phoenix,North America,Phoenix,United States of America
+Denver,North America,Denver,United States of America
+Salt Lake City Municipal,North America,Salt Lake City,United States of America
+Dallas/Ft Worth,North America,Dallas,United States of America
+Houston,North America,Houston,United States of America
+Omaha,North America,Omaha,United States of America
+Chicago,North America,Chicago,United States of America
+Minneapolis,North America,Minneaoplus,United States of America
+Detroit,North America,Detroit,United States of America
+Atlanta,North America,Atlanta,United States of America
+Miami,North America,Miami,United States of America
+Philadelphia,North America,Philadelphia,United States of America
+New York,North America,New York City,United States of America
+Boston,North America,Boston,United States of America
+Washington,North America,Washington D.C.,United States of America
+Oklahoma City,North America,Oklahoma City,United States of America
+San Antonio,North America,San Antonio,United States of America
+New Orleans,North America,New Orleans,United States of America
+Kansas City,North America,Kansas City,United States of America
+Memphis,North America,Memphis,United States of America
+St. Louis,North America,St. Louis,United States of America
+Nashville,North America,Nashville,United States of America
+Charlotte,North America,Charlotte,United States of America
+Cleveland,North America,Cleveland,United States of America
+Cincinnati,North America,Cincinnati,United States of America
+Milwaukee,North America,Milwaukee,United States of America
+Pittsburgh,North America,Pittsburgh,United States of America
+Baltimore,North America,Baltimore,United States of America
+Vancouver,North America,Vancouver,Canada
+Calgary,North America,Calgary,Canada
+Edmonton,North America,Edmonton,Canada
+Toronto,North America,Toronto,Canada
+Ottawa,North America,Ottawa,Canada
+Montreal,North America,Montréal,Canada
+Quebec,North America,Québec City, Canada
+Winnipeg,North America,Winnipeg, Canada
+Regina,North America,Regina, Canada
+Yellowknife,North America,Yellowknife, Canada
+Alert,North America,Alert,Canada
+Mexico City Airport,North America,Mexico City,Mexico
+Monterrey Airport,North America,Monterrey,Mexico
+Tijuana,North America,Tijuana,Mexico
+Guadalajara Don Miguel,North America,Guadalajara,Mexico
+Merida,North America,Merida,Mexico
+Nassau,North America,Nassau,The Bahamas
+Havana,North America,Havana,Cuba
+Varadero,North America,Varadero,Cuba
+Santiago de Cuba,North America,Santiago de Cuba,Cuba
+Holguin,North America,Holguin,Cuba
+Kingston,North America,Kingston,Jamaica
+Punta Cana,North America,Santo Domingo,República Dominicana
+Belize,North America,Belize City,Belize
+Guatemala,North America,Guatemala,Guatemala
+San Salvador,North America,San Salvador,El Salvador
+Tegucigalpa,North America,Tegucigalpa,Honduras
+Managua,North America,Managua,Nicaragua
+Puerto Limon,North America,San José,Costa Rica
+Panama,North America,Panama City,Panama
+Caracas la Carlota,South America,Caracas,Venezuela
+Maracaibo,South America,Maracaibo,Venezuela
+Paramaribo,South America,Paramaribo,Surinam
+Bogota,South America,Bogotá,Colombia
+Barranquilla,South America,Barranquilla,Colombia
+Medellin,South America,Medellín,Colombia
+Quito,South America,Quito,Equador
+Guayaquil,South America,Guayaquil,Equador
+Lima,South America,Lima,Peru
+Cuzco,South America,Cuzco,Peru
+La Paz,South America,La Paz, Bolivia
+Asuncion,South America,Asunción,Paraguay
+Montevideo,South America,Montevideo,Uruguay
+Buenos Aires,South America,Buenos Aires,Argentina
+Rosario,South America,Rosario,Argentina
+Mendoza,South America,Mendoza,Argentina
+Comodoro Rivadavia,South America,Comodoro Rivadavia,Argentina
+Santiago,South America,Santiago,Chile
+Antofagasta,South America,Antofagasta,Chile
+Ushuaia,South America,Ushuaia,Argentina
+Curitiba Bacacheri,South America,Curitiba,Brazil
+Brasilia,South America,Brasilia,Brazil
+Fortaleza,South America,Fortaleza,Brazil
+Porto Alegre,South America,Porto Alegre,Brazil
+Rio de Janeiro,South America,Rio de Janeiro,Brazil
+Sao Paulo,South America,São Paulo,Brazil
+Manaus Eduardo Gomes,South America,Manaus,Brazil
+Salvador Airport,South America,Salvador,Brazil
+Recife,South America,Recife,Brazil
+Cape Town,Africa,Cape Town,South Africa
+Johannesburg,Africa,Johannesburg,South Africa
+Harare Kutsaga,Africa,Harare,Zimbabwe
+Kinshasa,Africa,Kinshasa,Congo
+Luanda,Africa,Luanda,Angola
+Jinja,Africa,Kampala,Uganda
+Bangui,Africa,Bangui,Central African Republic
+Bamako,Africa,Bamako,Mali
+Windhoek,Africa,Windhoek,Namibia
+Maputo,Africa,Maputo,Mozambique
+Antananarivo,Africa,Antananarivo,Madagascar
+Pretoria,Africa,Pretoria,South Africa
+Durban,Africa,Durban,South Africa
+Bloemfontein,Africa,Bloemfontein,South Africa
+Port Elizabeth,Africa,Port Elizabeth,South Africa
+Conakry,Africa,Conakry,Guinea
+Nouakchott,Africa,Nouakchott,Mauritania
+Nairobi Jomo,Africa,Nairobi,Kenya
+Libreville,Africa,Libreville,Gabon
+Douala,Africa,Douala,Cameroon
+Addis Ababa,Africa,Addis Ababa,Ethiopia
+Dakar,Africa,Dakar,Senegal
+Khartoum,Africa,Khartoum,Sudan
+Abidjan,Africa,Abidjan,Ivory Coast
+Accra,Africa,Accra,Ghana
+Lagos,Africa,Lagos,Nigeria
+Cairo,Africa,Cairo,Egypt
+Alexandria,Africa,Alexandria,Egypt
+Luxor,Africa,Luxor,Egypt
+Tripolis,Africa,Tripolis,Lybia
+Tunis,Africa,Tunisia
+Rabat-Sale,Africa,Rabat,Morocco
+Casablanca,Africa,Casablanca,Morocco
+Marrakech,Africa,Marrakech,Morocco
+Fes-Sais,Africa,Fes,Morocco
+Riyadh,Middle East,Riyadh,Saudi Arabia
+Madinah,Middle East,Madinah,Saudi Arabia
+Dubai,Middle East,Dubai,United Arab Emirates
+Abu Dhabi,Middle East,Abu Dhabi,United Arab Emirates
+Bahrain,Middle East,Bahrain,Bahrain
+Doha,Middle East,Doha,Qatar
+Sana,Middle East,Sana'a,Yemen
+Kuwait,Middle East,Kuwait City,Kuwait
+Seeb,Middle East,Muscat,Oman
+Ankara,Middle East,Ankara,Turkey
+Istanbul,Europe,Istanbul,Turkey
+Damascus,Middle East,Damascus,Syria
+Aleppo,Middle East,Aleppo,Syria
+Beirut,Middle East,Beirut,Lebanon
+Tel Aviv,Middle East,Tel Aviv,Israel
+Amman,Middle East,Amman,Jordan
+Tehran,Middle East,Tehran,Iran
+Shiraz,Middle East,Shiraz,Iran
+Tabriz,Middle East,Tabriz,Iran
+Mashhad,Middle East,Mashhad,Iran
+Astana,North Asia,Astana,Kazakhstan
+Almaty,North Asia,Almaty,Kazakhstan
+Tashkent,North Asia,Tashkent,Uzbekistan
+Dushanbe,North Asia,Dushanbe,Taijikistan
+Ashgabat,North Asia,Dushanbe,Turkmenistan
+Bishkek,North Asia,Dushanbe,Kyrgyzstan
+Omsk,North Asia,Omsk,Russia
+Kabul,North Asia,Kabul,Afghanistan
+Herat,North Asia,Herat,Afghanistan
+Karachi,South Asia,Karachi,Pakistan
+Islamabad,South Asia,Karachi,Pakistan
+Lahore City,South Asia,Lahore,Pakistan
+Hyderabad,South Asia,Hyderabad,Pakistan
+Multan,South Asia,Multan,Pakistan
+New Delhi,South Asia,New Delhi,India
+Kathmandu,North Asia,Kathmandu,Nepal
+Bombay,South Asia,Bombay,India
+Ahmedabad,South Asia,Ahmedabad,India
+Bangalore Airport,South Asia,Bangalore,India
+Kolkata (Calcutta),South Asia,Kolkata,India
+Chennai (Madras),South Asia,Chennai,India
+Ulaanbaatar,North Asia,Ulaanbaatar,Mongolia
+Dhaka,South Asia,Dhaka,Bangladesh
+Ha Noi,South Asia,Hanoi,Vietnam
+Ho Chi Minh,South Asia,Ho Chi Minh,Vietnam
+Vientiane,South Asia,Vientiane,Laos
+Phnom-Penh,South Asia,Phnom-Penh,Cambodja
+Bangkok,South Asia,Bangkok,Thailand
+Kuala Lumpur,South Asia,Kuala Lumpur,Malaysia
+Bintulu,South Asia,Bintulu,Malaysia
+Taipei Airport,North Asia,Taipei,Taiwan
+Kaohsiung,North Asia,Kaohsiung City,Taiwan
+Hong Kong,North Asia,Hong Kong,Hong Kong
+Shanghai Hongqiao,North Asia,Shanghai,China
+Beijing,North Asia,Beijing,China
+Tianjin,North Asia,Tianjin,China
+Hangzhou,North Asia,Hangzhou,China
+Chengdu,North Asia,Chengdu,China
+Chongqing,North Asia,Chongqing,China
+Urumqi Diwopu,North Asia,Urumqi,China
+Lhasa,North Asia,Lhasa,Tibet
+Seoul City,North Asia,Seoul,South Korea
+Taegu,North Asia,Daegu,South Korea
+Inchon,North Asia,Incheon,South Korea
+Pusan Airport,North Asia,Busan,South Korea
+Pyongyang,North Asia,Pyongyang,North Korea
+Xi'an,North Asia,Xi'an,China
+Harbin,North Asia,Harbin,China
+Wuhan,North Asia,Wuhan,China
+Mandalay,South Asia,Mandalay,Myanmar
+Tokyo,North Asia,Tokyo,Japan
+Sapporo AB,North Asia,Sapporo,Japan
+Osaka Airport,North Asia,Osaka,Japan
+Fukuoka Airport,North Asia,Fukuoka,Japan
+Hiroshima,North Asia,Hiroshima,Japan
+Sendai Airport,North Asia,Sendai,Japan
+Singapore,South Asia,Singapore,Singapore
+Jakarta Soekarno-Hatta,South Asia,Jakarta,Indonesia
+Medan,South Asia,Medan,Indonesia
+Bandung Airport,South Asia,Bandung,Indonesia
+Manila,South Asia,Manila,Philippines
+Davao,South Asia,Manila,Philippines
+Perth,Oceania,Perth,Australia
+Sydney,Oceania,Sydney,Australia
+Melbourne Airport,Oceania,Melbourne,Australia
+Brisbane,Oceania,Brisbane,Australia
+Darwin,Oceania,Darwin,Australia
+Adelaide,Oceania,Adelaide,Australia
+Canberra,Oceania,Canberra,Australia
+Cairns,Oceania,Cairns,Australia
+Wellington,Oceania,Wellington,New Zealand
+Auckland,Oceania,Auckland,New Zealand
+Christchurch,Oceania,Christchurch,New Zealand
+Apia,Oceania,Apia,Samoa
+Tahiti,Oceania,Tahiti,French Polynesia
+Bora-Bora,Oceania,Bora-Bora,French Polynesia
+Williams Field,Antarctica,Williams Field,Antarctica

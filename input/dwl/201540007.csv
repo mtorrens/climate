@@ -1,0 +1,14 @@
+
+EET,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2015-3-7,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2015-3-8,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2015-6-22,28,,28,21,21,21,58,58,58,1010,1010,1010,10,10,10,14,14,,0.00,,,-1<br />
+2015-8-3,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2015-8-14,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2015-9-2,25,,25,23,23,23,89,89,89,1011,1011,1011,,,,8,8,,0.00,,,80<br />
+2015-9-3,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2015-9-22,,,,,,,,,,,,,,,,90,90,,0.00,,,-1<br />
+2015-10-13,,,,,,,,,,,,,,,,32,32,,0.00,,,-1<br />
+2015-10-27,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2015-11-1,,,,,,,,,,,,,,,,32,32,,0.00,,,-1<br />
+2015-12-6,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />

@@ -1,0 +1,15 @@
+
+EET,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2014-1-1,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-1-2,7,,7,4,4,4,83,83,83,1022,1022,1022,10,10,10,6,6,,0.00,,,-1<br />
+2014-2-8,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-2-9,3,,3,-2,-2,-2,60,60,60,1023,1023,1023,14,14,14,6,6,,0.00,,,-1<br />
+2014-4-28,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-4-29,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-6-3,,,,,,,,,,,,,,,,32,32,,0.00,,,-1<br />
+2014-7-2,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-7-3,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-8-23,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-8-24,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-11-3,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2014-11-4,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />

@@ -1,0 +1,8 @@
+
+BRST,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2005-1-7,22,,22,20,20,20,88,88,88,1016,1016,1016,10,10,10,8,8,,0.00,6,,180<br />
+2005-3-23,26,,26,19,19,19,65,65,65,1017,1017,1017,10,10,10,14,14,,0.00,3,,130<br />
+2005-5-2,18,16,14,13,11,10,94,70,59,1025,1024,1023,10,9,6,16,13,,0.00,6,,98<br />
+2005-5-29,19,,19,12,12,12,64,64,64,1024,1024,1024,10,10,10,6,6,,0.00,6,,350<br />
+2005-9-3,20,17,17,6,5,4,42,41,40,1021,1020,1020,,,,6,6,,0.00,,,100<br />
+2005-11-15,19,,19,14,14,14,73,73,73,1018,1018,1018,10,10,10,0,0,,0.00,1,,-1<br />

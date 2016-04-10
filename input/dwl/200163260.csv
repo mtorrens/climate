@@ -1,0 +1,11 @@
+
+EAT,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2001-1-6,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2001-4-26,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2001-4-28,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2001-5-25,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2001-6-19,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2001-6-23,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2001-8-1,34,,34,17,17,17,36,36,36,1008,1008,1008,10,10,10,64,64,93,0.00,8,,290<br />
+2001-8-8,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2001-10-4,,,,26,26,26,,,,1009,1009,1009,,,,,,,0.00,1,,-1<br />

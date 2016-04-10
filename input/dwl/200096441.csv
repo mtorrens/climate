@@ -1,0 +1,10 @@
+
+MYT,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees<br />
+2000-6-29,30,,30,24,24,24,70,70,70,1005,1005,1005,10,10,10,16,16,,0.00,6,,310<br />
+2000-7-2,27,,27,25,25,25,89,89,89,1006,1006,1006,10,10,10,0,0,,0.00,6,,-1<br />
+2000-7-3,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2000-7-17,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2000-7-18,26,,26,25,25,25,94,94,94,1010,1010,1010,10,10,10,8,8,,0.00,6,,90<br />
+2000-11-4,,,,,,,,,,,,,,,,,,,0.00,,,-1<br />
+2000-11-5,30,24,24,24,23,22,94,87,70,1013,1012,1011,10,10,10,10,8,,0.00,6,,64<br />
+2000-11-20,31,,31,26,26,26,75,75,75,1005,1005,1005,10,10,10,19,19,,0.00,6,,300<br />
