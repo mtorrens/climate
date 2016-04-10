@@ -19,6 +19,8 @@ SRCDIR <- paste(PATH, 'src/', sep = '')
 INPDIR <- paste(PATH, 'input/', sep = '')
 DATDIR <- paste(PATH, 'data/', sep = '')
 TMPDIR <- paste(PATH, 'temp/', sep = '')
+OUTDIR <- paste(PATH, 'output/', sep = '')
+APPDIR <- paste(PATH, 'app/', sep = '')
 
 # Package dependencies
 library(XML)
